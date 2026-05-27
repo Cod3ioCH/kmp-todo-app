@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android
+local.properties
+*.iml
+.idea/
+*.apk
+*.aab
+*.ap_
+
+# Xcode
+iosApp/iosApp.xcodeproj/xcuserdata/
+iosApp/iosApp.xcworkspace/xcuserdata/
+iosApp/iosApp.xcworkspace/xcshareddata/swiftpm/
+*.xcuserstate
+DerivedData/
+
+# Kotlin/Native
+*.klib
+*.dSYM/
+
+# macOS
+.DS_Store
+**/.DS_Store
