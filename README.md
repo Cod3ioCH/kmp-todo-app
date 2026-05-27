@@ -25,11 +25,11 @@ ToDoApp/
 | Tool | Mindestversion | Hinweis |
 |------|---------------|---------|
 | JDK | 17 | `java -version` |
-| IntelliJ IDEA Ultimate | 2024.1+ | inkl. Kotlin & Android Plugin |
-| Android SDK | API 24+ | über IntelliJ SDK-Manager einrichten |
-| Xcode | 15.0 | nur auf macOS für iOS-Build |
+| IntelliJ IDEA Ultimate | 2025.1+ | inkl. Kotlin & Android Plugin |
+| Android SDK | API 36 (Android 16) | über IntelliJ SDK-Manager einrichten |
+| Xcode | 26.4 | nur auf macOS für iOS-Build |
 
-> **Kotlin Version:** 2.0.21 · **AGP:** 8.5.2 · **Gradle Wrapper:** 8.9
+> **Kotlin Version:** 2.2.10 · **AGP:** 9.0.1 · **Gradle Wrapper:** 9.2.1 · **compileSdk/targetSdk:** 36 · **iOS Deployment Target:** 18.0
 
 ---
 
